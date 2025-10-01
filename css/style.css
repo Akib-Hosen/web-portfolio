@@ -140,6 +140,7 @@ nav ul li a{
   
 }
 
+
 /* main section start  */
 
 main{
@@ -211,4 +212,53 @@ main{
   padding: 33px;
   border-radius: 5px;
   box-shadow: 0px 6px 50px 0px rgba(0, 0, 0, 0.06);
+}
+
+
+/* resume start  */
+.resume{
+
+}
+.resume_title{
+  font-size: 35px;
+  text-align: center;
+  margin-top: 0px;
+  margin-bottom: 113px;
+}
+.resume_container{
+  display: flex;
+  gap: 24px;
+}
+.resume_column{
+
+}
+.resume_column_title{
+  font-size: 30px;
+  color:#474747;
+}
+.experience{
+  margin: 30px 50px 30px 0px;
+}
+.experience_title{
+  font-size: 25px;
+  color:#474747;
+  margin: 0px;
+}
+.experience_sub_title{
+  font-size: 20px;
+  font-weight: 600;
+  color: #757575;
+  margin-top: 10px;
+  margin-bottom: 20px;
+}
+.experience_discription{
+  font-size: 16px;
+  color: #757575;
+  padding-right: 23px;
+}
+.resume_button{
+  display: block;
+  margin: 0 auto;
+  margin-top: 50px;
+  margin-bottom: 113px;
 }
